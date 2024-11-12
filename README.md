@@ -1,5 +1,1 @@
-this is jiro ☁️
-  
-  __>__ mobile
-  
-  __>__ cloud
+jiro, an html pro max
